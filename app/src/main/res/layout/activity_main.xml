@@ -33,5 +33,18 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnExplisit3"
         android:text="Kirim Data (Parceable) ke Activity 4" />
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnExplisit4"
+        android:text="Menunggu Return dari Activity 5" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/returnHasil"
+        android:gravity="center"
+        android:hint="Menunggu ....." />
 
 </LinearLayout>
