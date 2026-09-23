@@ -28,4 +28,10 @@
         android:id="@+id/btnExplisit2"
         android:text="Kirim Data ke Activity 3" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnExplisit3"
+        android:text="Kirim Data (Parceable) ke Activity 4" />
+
 </LinearLayout>
